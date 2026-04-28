@@ -1,3 +1,3 @@
-My solutions for (ziglings)[https://codeberg.org/ziglings/exercises/#ziglings]
+My solutions for [ziglings](https://codeberg.org/ziglings/exercises/#ziglings)
 
 
